@@ -1,3 +1,5 @@
+import './main.scss';
+
 console.log('Hello dev-server!');
 
 const foo = () => {
